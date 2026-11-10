@@ -8,7 +8,7 @@ Basically a game of pong but you have two modes to choose from:
 basically you against a computer
 
 # The second Mode 
-its you against a player 
+its you against a player of your choice could be a friend or anyone really. 
 
 both modes feature immersive and challenging gameplay and you get to pick the score.
 
